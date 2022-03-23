@@ -1,6 +1,13 @@
 ## Introduction
 
-This is a skeleton project used as an init commit for a general Python project, using `pipenv` as a package manager
+This project aims to showcase data handling on an entry level. This means datasets that are small in both size and complexity.
+They usually fit into memory and require minimal to no preprocessing. There is introduction here to the following data types:
+ - time series
+ - text
+ - audio
+ - image
+
+Below are setup instructions
 
 ## Pipenv setup
 
