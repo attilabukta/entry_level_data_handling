@@ -4,6 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+tensorflow = "==2.8.0"
+jupyter = "*"
+matplotlib = "*"
 
 [dev-packages]
 pytest = "*"
